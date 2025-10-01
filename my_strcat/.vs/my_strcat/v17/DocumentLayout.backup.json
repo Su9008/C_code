@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_code\\my_strcat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0071FCE0-78F2-4616-AD90-EE94B9BC827C}|my_strcat\\my_strcat.vcxproj|D:\\codeProject\\C_code\\my_strcat\\my_strcat\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0071FCE0-78F2-4616-AD90-EE94B9BC827C}|my_strcat\\my_strcat.vcxproj|solutionrelative:my_strcat\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\codeProject\\C_code\\my_strcat\\my_strcat\\test.c",
+              "RelativeDocumentMoniker": "my_strcat\\test.c",
+              "ToolTip": "D:\\codeProject\\C_code\\my_strcat\\my_strcat\\test.c*",
+              "RelativeToolTip": "my_strcat\\test.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-01T09:24:08.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
