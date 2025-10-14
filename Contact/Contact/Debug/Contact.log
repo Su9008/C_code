@@ -1,0 +1,5 @@
+﻿  contact.c
+  test.c
+D:\codeProject\C_code\Contact\Contact\contact.c(37,27): warning C4028: 正式參數 1 與宣告不同
+  正在產生程式碼...
+  Contact.vcxproj -> D:\codeProject\C_code\Contact\Debug\Contact.exe
